@@ -18,7 +18,7 @@ const suma = ()=>{
   let sumatoria=(parseFloat(numero1)+parseFloat(numero2));
   setResultado(sumatoria);
 }
-
+ 
 const multi = ()=>{
   let multiplicacion=(parseFloat(numero1)*parseFloat(numero2));
   setResultado(multiplicacion);

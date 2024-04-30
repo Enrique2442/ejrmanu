@@ -21,4 +21,4 @@ const styles = StyleSheet.create({
       textAlign:'center', 
       fontWeight:'900'
     }
-  });
+  }); 
